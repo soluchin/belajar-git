@@ -3,4 +3,5 @@ Repo buat belajar git
 
 perubahan 2
 
-tabah ubahan
+fixing bugs
+fixing bugs fitur delivery
